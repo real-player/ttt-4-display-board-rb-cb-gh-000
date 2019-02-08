@@ -6,3 +6,4 @@ def display_board(b)
   puts " #{b[3]} | #{b[4]} | #{b[5]} "
   puts "-----------"
   puts " #{b[6]} | #{b[7]} | #{b[8]} "
+end
